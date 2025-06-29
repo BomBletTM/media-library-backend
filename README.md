@@ -3,12 +3,13 @@
 **Media Library** is a simple Node.js REST API for retrieving movie information. It supports both standalone movies and franchise installments.
 
 ## 📁 Project Structure
-
+<pre>
 MediaLibrary/
 ├── app.js # Main Express server
 ├── library.js # Logic for storing and retrieving movies
 ├── MediaItem.js # Movie and FranchiseFilm classes
 ├── package.json
+</pre>
 
 ## 🚀 Getting Started
 
