@@ -87,12 +87,13 @@ While building this project, I practiced and improved the following skills:
 - 🔄 Practicing CommonJS module exports/imports with require and module.exports
 
 ## 📚 Classes
-**Movie**
-- Properties: id, title, director
-- Method: getDetails()
+**Movie**  
+- Properties: `id`, `title`, `director`  
+- Method: `getDetails()`
 
-**FranchiseFilm (extends Movie)**
-- Additional properties: franchiseName, installmentNumber, totalInstallments
-- Overridden method: getDetails()
+**FranchiseFilm (extends Movie)**  
+- Additional properties: `franchiseName`, `installmentNumber`, `totalInstallments`  
+- Overridden method: `getDetails()`
+
 # 📦 Dependencies
 Express — Web framework for Node.js
